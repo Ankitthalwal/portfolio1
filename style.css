@@ -203,7 +203,7 @@ padding: 5px;
     color:white;
     font-size: 15px;
     display:inline-block;
-    rotate: 90deg;
+    transform:rotate(90deg);
     position: fixed;
     left: -6%;
     bottom:120px
@@ -423,7 +423,8 @@ span4{
     color:white;
     font-size: 8px;
     display:inline-block;
-    rotate: 90deg;
+    transform:rotate(90deg);
+    
     position: fixed;
     left: -11%;
     bottom:70px
